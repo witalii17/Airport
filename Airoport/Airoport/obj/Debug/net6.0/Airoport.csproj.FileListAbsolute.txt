@@ -1,0 +1,15 @@
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\bin\Debug\net6.0\Airoport.exe
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\bin\Debug\net6.0\Airoport.deps.json
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\bin\Debug\net6.0\Airoport.runtimeconfig.json
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\bin\Debug\net6.0\Airoport.dll
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\bin\Debug\net6.0\Airoport.pdb
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.csproj.AssemblyReference.cache
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.AssemblyInfoInputs.cache
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.AssemblyInfo.cs
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.csproj.CoreCompileInputs.cache
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.dll
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\refint\Airoport.dll
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.pdb
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\Airoport.genruntimeconfig.cache
+C:\Users\v.kovalenko\Desktop\project Airoport\Airoport\Airoport\obj\Debug\net6.0\ref\Airoport.dll
